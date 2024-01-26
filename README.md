@@ -1,7 +1,7 @@
-[![MasterHead](https://giphy.com/gifs/coding-logic-programmer-xVRRDVP6lqtNQJrzN7)]
+[![MasterHead](https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://juanatech.com/)
 <h1 align="center">Hi 👋, I'm Bellinna</h1>
 <h3 align="center">A passionate from France</h3>
-<img align="right" alt="Coding" width="400" src="<iframe src="https://juanatech.com/wp-content/uploads/2022/09/coder.gif">
+<img align="right" alt="Coding" width="400" src="https://juanatech.com/wp-content/uploads/2022/09/coder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bellinna-uong&label=Profile%20views&color=0e75b6&style=flat" alt="bellinna-uong" /> </p>
 
