@@ -1,4 +1,4 @@
-[![MasterHead][![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://juanatech.com/)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://juanatech.com/)
 <h1 align="center">Hi 👋, I'm Bellinna</h1>
 <h3 align="center">A passionate from France</h3>
 <img align="right" alt="Coding" width="400" src="https://juanatech.com/wp-content/uploads/2022/09/coder.gif">
